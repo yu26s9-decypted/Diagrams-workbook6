@@ -1,6 +1,6 @@
 # Diagrams — Workbook 6
 
-A collection of database and system design diagrams created during my studies at **LTCA (Liftoff Tech Career Accelerator)**.
+A collection of database and system design diagrams created during my studies at **Year Up United — Learn to Code Academy (LTCA)**.
 
 ## About This Project
 
